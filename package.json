@@ -8,6 +8,7 @@
     "dev": "vuepress dev docs",
     "build": "vuepress build docs",
     "deploy": "bash deploy.sh",
+    "deploy_dev": "bash deploy_dev.sh",
     "deploy_pro": "bash deploy_pro.sh"
   },
   "keywords": [],
